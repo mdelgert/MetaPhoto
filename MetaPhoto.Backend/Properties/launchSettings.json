@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "Backend": {
+    "MetaPhoto.Backend": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7261",
+      "commandLineArgs": "--port 7039",
       "launchBrowser": false
     }
   }
